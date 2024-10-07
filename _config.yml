@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Windy Sun-Master Student"
+title                    : "Windy Sun-MS"
 title_separator          : "-"
-name                     : &name "Sun Junze-MS"
+name                     : &name "Sun Junze"
 description              : &description "Active candidate"
 url                      : https://windysc.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,7 +21,7 @@ repository               : "Windysc/windysc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pics.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
